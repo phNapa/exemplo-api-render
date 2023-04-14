@@ -1,0 +1,23 @@
+{
+  "name": "exemplo-api-render",
+  "version": "1.0.0",
+  "description": "aula 14/04/2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phNapa/exemplo-api-render.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phNapa/exemplo-api-render/issues"
+  },
+  "homepage": "https://github.com/phNapa/exemplo-api-render#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
