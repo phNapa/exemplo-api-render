@@ -8,5 +8,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Aberto na porta do seu cu kkkkkkkkk ${port}`)
+  console.log(`Aberto na porta ${port}`)
 })
